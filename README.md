@@ -8,11 +8,7 @@ A comprehensive collection of production-ready website components built with Nex
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-black)](https://ui.shadcn.com/)
 
 <img src="https://launchuicomponents.com/preview.gif" alt="Launch UI components mockups" />
-
-> [!TIP]
-> **Tailwind v4 + React 19:**
-> Launch UI v2.0 adds full support for Tailwind v4, React 19 and Next.js 15.
-> If you're using Tailwind 3, a version that supports it is still maintained on a [separate branch](https://github.com/launch-ui/launch-ui/tree/tailwind-3).
+ined on a [separate branch](https://github.com/launch-ui/launch-ui/tree/tailwind-3).
 
 ## 🚀 Quick Start
 
@@ -28,10 +24,6 @@ npm run dev
 
 3. Open [http://localhost:3000](http://localhost:3000) to view your site
 
-## 📚 Resources
-
-- [Live Preview](https://launchuicomponents.com/preview)
-- [Documentation](https://www.launchuicomponents.com/docs/getting-started/introduction)
 
 ## ✨ Features
 
@@ -86,14 +78,3 @@ Perfect for building landing pages for:
 - 🚀 **Startup Products**: Perfect for indie hackers, solo founders, and technical startups
 - ⚡ **Technical Products**: Ideal for technical products, development tools, and programming software
 
-## 📝 License
-
-This repository is licensed under the [MIT License](https://github.com/launch-ui/launch-ui/blob/main/LICENSE.md).
-
----
-
-<p align="center">
-  <a href="https://launchuicomponents.com">Website</a> •
-  <a href="https://launchuicomponents.com/docs">Documentation</a> •
-  <a href="https://launchuicomponents.com/preview">Preview</a>
-</p>
