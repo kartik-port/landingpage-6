@@ -7,10 +7,7 @@ A comprehensive collection of production-ready website components built with Nex
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-black)](https://ui.shadcn.com/)
 
-<img src="https://launchuicomponents.com/preview.gif" alt="Launch UI components mockups" />
-ined on a [separate branch](https://github.com/launch-ui/launch-ui/tree/tailwind-3).
 
-## 🚀 Quick Start
 
 1. Install dependencies:
 ```bash
